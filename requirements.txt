@@ -1,0 +1,9 @@
+-i https://pypi.org/simple
+black==24.4.2; python_version >= '3.8'
+click==8.1.7; python_version >= '3.7'
+isort==5.13.2; python_full_version >= '3.8.0'
+mypy-extensions==1.0.0; python_version >= '3.5'
+packaging==24.0; python_version >= '3.7'
+pathspec==0.12.1; python_version >= '3.8'
+platformdirs==4.2.2; python_version >= '3.8'
+pybluez@ git+https://github.com/pybluez/pybluez.git#egg=pybluez@82cbba8a1ebd4c1e3442dfafd8581d58c50fa39e
