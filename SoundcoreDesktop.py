@@ -130,7 +130,7 @@ def removeImg():
 text = {
     "ANC Outdoor": "Reduce ambient sound on-the-go for quieter city spaces",
     "ANC Trans": "Targets low-end frequencies like engine and road noise for serene journeys and commutes.",
-    "ANC INDOOR": "Eliminate voices and mid-frequency noise from coffee shaps and other inside spaces."
+    "ANC INDOOR": "Eliminate voices and mid-frequency noise from coffee shops and other inside spaces."
 }
 
 def forgetANCWegets():
